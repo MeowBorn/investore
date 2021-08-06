@@ -695,7 +695,7 @@ a:visited {
     width: 100%;
     padding: 16px 60px 16px 132px;
     margin: 0 0 32px 0;
-    background: url(../images/icon-warning.svg) no-repeat left 52px center #FCFCFC;
+    background: url(images/icon-warning.svg) no-repeat left 52px center #FCFCFC;
     border: 1px solid #ECEFF2;
     border-radius: 8px;
     overflow: hidden;
